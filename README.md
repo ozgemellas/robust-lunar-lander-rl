@@ -107,4 +107,4 @@ Bu komut, web tarayıcınızda şunları yapabileceğiniz bir sekme açacaktır:
 
 ## Lisans
 
-Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakınız (eğer mevcutsa) veya açık kaynak standartlarını referans alınız.
+Bu proje MIT Lisansı altında lisanslanmıştır. 
